@@ -1,0 +1,10 @@
+{
+  "key": "027058a0-82da-11ea-92db-8d85fd9943fb",
+  "id": "027058a0-82da-11ea-92db-8d85fd9943fb",
+  "url": "api/path",
+  "remarks": "这里是新的api",
+  "ruleType": "mock数据",
+  "data": {
+    "e": "r"
+  }
+}

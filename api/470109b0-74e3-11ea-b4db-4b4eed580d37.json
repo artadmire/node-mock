@@ -1,0 +1,7 @@
+{
+  "url": "api/rpc",
+  "remarks": "接口1",
+  "type": "HTTP",
+  "method": "POST",
+  "id": "470109b0-74e3-11ea-b4db-4b4eed580d37"
+}

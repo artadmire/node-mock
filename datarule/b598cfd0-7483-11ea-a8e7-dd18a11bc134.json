@@ -1,0 +1,13 @@
+{
+  "key": "b598cfd0-7483-11ea-a8e7-dd18a11bc134",
+  "id": "b598cfd0-7483-11ea-a8e7-dd18a11bc134",
+  "url": "api/path",
+  "remarks": "第一次 请求",
+  "ruleType": "mock数据",
+  "data": {
+    "success": true,
+    "data": {
+      "name": "maiel"
+    }
+  }
+}

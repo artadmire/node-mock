@@ -1,0 +1,20 @@
+{
+  "apiList": [
+    {
+      "url": "api/path",
+      "remarks": "这里是新的api",
+      "type": "HTTP",
+      "method": "GET",
+      "id": "13def5b0-740c-11ea-a37a-91b5f5108e97"
+    },
+    {
+      "url": "api/rpc",
+      "remarks": "接口1",
+      "type": "HTTP",
+      "method": "POST",
+      "id": "470109b0-74e3-11ea-b4db-4b4eed580d37"
+    }
+  ],
+  "id": "916be110-82b1-11ea-b355-9f2f1a24c144",
+  "key": "916be110-82b1-11ea-b355-9f2f1a24c144"
+}

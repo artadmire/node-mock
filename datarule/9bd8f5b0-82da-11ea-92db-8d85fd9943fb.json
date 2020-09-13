@@ -1,0 +1,10 @@
+{
+  "id": "9bd8f5b0-82da-11ea-92db-8d85fd9943fb",
+  "url": "api/rpc",
+  "remarks": "这里是新的api",
+  "ruleType": "mock数据",
+  "data": {
+    "A": "D"
+  },
+  "key": "9bd8f5b0-82da-11ea-92db-8d85fd9943fb"
+}

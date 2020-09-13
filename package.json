@@ -1,0 +1,20 @@
+{
+  "name": "nodemagic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ip": "^1.1.5",
+    "jsonfile": "^6.0.1",
+    "koa": "^2.11.0",
+    "koa-parser": "^1.0.8",
+    "koa-router": "^8.0.8",
+    "koa2-cors": "^2.0.6",
+    "node-uuid": "^1.4.8"
+  }
+}

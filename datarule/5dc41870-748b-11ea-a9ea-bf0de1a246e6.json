@@ -1,0 +1,13 @@
+{
+  "key": "5dc41870-748b-11ea-a9ea-bf0de1a246e6",
+  "id": "5dc41870-748b-11ea-a9ea-bf0de1a246e6",
+  "url": "api/path",
+  "remarks": "第一次 请求",
+  "ruleType": "mock数据",
+  "data": {
+    "success": true,
+    "data": {
+      "name": "maiel"
+    }
+  }
+}

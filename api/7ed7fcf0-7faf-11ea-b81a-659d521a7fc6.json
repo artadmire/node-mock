@@ -1,0 +1,7 @@
+{
+  "url": "api/login",
+  "remarks": "登陆",
+  "type": "HTTP",
+  "method": "POST",
+  "id": "7ed7fcf0-7faf-11ea-b81a-659d521a7fc6"
+}

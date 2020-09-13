@@ -1,0 +1,20 @@
+{
+  "apiList": [
+    {
+      "url": "api/rpc",
+      "remarks": "接口1",
+      "type": "HTTP",
+      "method": "POST",
+      "id": "470109b0-74e3-11ea-b4db-4b4eed580d37"
+    },
+    {
+      "url": "api/login",
+      "remarks": "登陆",
+      "type": "HTTP",
+      "method": "GET",
+      "id": "7d4c53e0-7faf-11ea-b81a-659d521a7fc6"
+    }
+  ],
+  "id": "532494b0-82b1-11ea-b355-9f2f1a24c144",
+  "key": "532494b0-82b1-11ea-b355-9f2f1a24c144"
+}

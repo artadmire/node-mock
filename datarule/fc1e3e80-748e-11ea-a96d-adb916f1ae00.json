@@ -1,0 +1,8 @@
+{
+  "key": "fc1e3e80-748e-11ea-a96d-adb916f1ae00",
+  "id": "fc1e3e80-748e-11ea-a96d-adb916f1ae00",
+  "url": "api/path",
+  "remarks": "接口2",
+  "ruleType": "执行函数",
+  "fun": "function add () {\n    return {\n        \"success\": true,\n        \"data\": {\n            \"age\": 17\n        }\n    }\n}"
+}

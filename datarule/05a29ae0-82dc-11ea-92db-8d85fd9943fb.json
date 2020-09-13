@@ -1,0 +1,10 @@
+{
+  "id": "05a29ae0-82dc-11ea-92db-8d85fd9943fb",
+  "url": "api/path",
+  "remarks": "第一次 请求",
+  "ruleType": "mock数据",
+  "data": {
+    "d": "e"
+  },
+  "key": "05a29ae0-82dc-11ea-92db-8d85fd9943fb"
+}

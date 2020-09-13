@@ -1,0 +1,13 @@
+{
+  "key": "ff8d9cb0-7483-11ea-b61c-e304f8b12e19",
+  "id": "ff8d9cb0-7483-11ea-b61c-e304f8b12e19",
+  "url": "api/path",
+  "remarks": "第一次 请求",
+  "ruleType": "mock数据",
+  "data": {
+    "success": true,
+    "data": {
+      "name": "nihao"
+    }
+  }
+}
